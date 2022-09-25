@@ -2,7 +2,7 @@
 
 A simple Note Taking application built with HTML, CSS & JavaScript.
 
-### Note: <i>This repository is created with the sole intent of guiding beginners to their initial Open Source contributions.</i>
+Note: <i>This repository is created with the sole intent of guiding beginners to their initial Open Source contributions.</i>
 
 ## How to Contribute?
 
