@@ -1,4 +1,4 @@
-## Source files for the Note Taking Application
+# Source files for the Note Taking Application
 
 ### Folder structure
 ```
